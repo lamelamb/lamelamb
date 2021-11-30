@@ -7,12 +7,12 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code>vue </code></a>
 
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://less.bootcss.com"><code><img height="20" src="./images/less.png"></code></a>
-<a href="https://element-plus.org/#/zh-CN"><code><img height="20" src="./images/element plus.svg"></code></a>
-<a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
+<a href="https://cn.vitejs.dev"><code> elementUI</code></a>
+<a href="https://less.bootcss.com"><code>flutter</code></a>
+<a href="https://element-plus.org/#/zh-CN"><code>微信小程序</code></a>
+<a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code>es6+</code></a>
 
 
 
